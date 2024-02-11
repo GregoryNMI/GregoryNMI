@@ -2,6 +2,7 @@
 ##
 
 ![GregoryNMI GitHub stats](https://github-readme-stats.vercel.app/api?username=GregoryNMI&show_icons=true&theme=radical)
+![bonfire-darksouls](https://github.com/GregoryNMI/GregoryNMI/assets/159632620/bcc587a8-060e-4431-92d8-7709ba96136b)
 
 
 
