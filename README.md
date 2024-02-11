@@ -7,9 +7,14 @@
   ![cidade-ds3](https://github.com/GregoryNMI/GregoryNMI/assets/159632620/9cf26e94-6b88-416e-93d1-eea09eac1c55)
   
 </h1>
-  
-![GregoryNMI GitHub stats](https://github-readme-stats.vercel.app/api?username=GregoryNMI&show_icons=true&theme=radical)
 
+
+<table align="center" border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=GregoryNMI&show_icons=true&theme=transparent"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryNMI&layout=compact&theme=transparent"/></td>
+  </tr>
+</table>
 
 
 
